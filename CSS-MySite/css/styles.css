@@ -7,6 +7,9 @@ h1{
 }
 
 .top-container{
+  background-color: #95e1d3;
+  height: 390px;
+  width: 980px;
    /*background-image: url('../images/mariobg.png');
   /* background-color: #f38181; */
   /* width:200px;
@@ -40,8 +43,8 @@ h1{
 }
 .mount{
   display: block;
-  vertical-align: bottom;
-
+width:1000px;
+height: 260px;
 
 }
 .pipe{
@@ -49,6 +52,10 @@ h1{
   width:20px;
 
   position: absolute;
-  top: 690px;
+  top: 351px;
   left:800px;
+}
+.cloud{
+
+width: 40px;
 }
